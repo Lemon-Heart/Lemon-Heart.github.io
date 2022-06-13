@@ -1,0 +1,108 @@
+{
+  "node_modules/nuxt/dist/app/entry.mjs": {
+    "file": "entry-91527c4a.mjs",
+    "src": "node_modules/nuxt/dist/app/entry.mjs",
+    "isEntry": true,
+    "dynamicImports": [
+      "pages/basket.vue",
+      "pages/index.vue",
+      "pages/licenses.vue",
+      "pages/lk.vue",
+      "pages/news.vue",
+      "pages/requisites.vue",
+      "pages/sale.vue",
+      "pages/sko.vue"
+    ],
+    "css": [
+      "entry.784c6602.css"
+    ],
+    "assets": [
+      "logo.ad26245b.png",
+      "Gilroy-Thin.84dbd069.woff2",
+      "Gilroy-ThinItalic.b89b2fcd.woff2",
+      "Gilroy-Light.ad7b32d1.woff2",
+      "Gilroy-LightItalic.77bb919e.woff2",
+      "Gilroy-Regular.8e78c2c8.woff2",
+      "Gilroy-Medium.ee68ee26.woff2",
+      "Gilroy-MediumItalic.88a78c95.woff2",
+      "Gilroy-Bold.8da03ac3.woff2",
+      "Gilroy-BoldItalic.8a173f7d.woff2",
+      "Gilroy-Extrabold.3fc637c6.woff2",
+      "Gilroy-ExtraboldItalic.003c5fe6.woff2",
+      "Gilroy-Black.e2869f4f.woff2",
+      "Gilroy-BlackItalic.097444cd.woff2"
+    ]
+  },
+  "pages/basket.vue": {
+    "file": "basket-ebc93e0f.mjs",
+    "src": "pages/basket.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/index.vue": {
+    "file": "index-1ba6617e.mjs",
+    "src": "pages/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs",
+      "_swiper-slide-3a4f632e.mjs"
+    ]
+  },
+  "_swiper-slide-3a4f632e.mjs": {
+    "file": "swiper-slide-3a4f632e.mjs",
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/licenses.vue": {
+    "file": "licenses-adb43bae.mjs",
+    "src": "pages/licenses.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs",
+      "_swiper-slide-3a4f632e.mjs"
+    ]
+  },
+  "pages/lk.vue": {
+    "file": "lk-fd687eab.mjs",
+    "src": "pages/lk.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/news.vue": {
+    "file": "news-53b2b680.mjs",
+    "src": "pages/news.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/requisites.vue": {
+    "file": "requisites-bff735c3.mjs",
+    "src": "pages/requisites.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/sale.vue": {
+    "file": "sale-84164e59.mjs",
+    "src": "pages/sale.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/sko.vue": {
+    "file": "sko-01b427d9.mjs",
+    "src": "pages/sko.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  }
+}
